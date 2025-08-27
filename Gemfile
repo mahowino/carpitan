@@ -92,3 +92,5 @@ gem "kamal"
 # Error tracking
 gem "honeybadger"
 gem "hotwire_combobox"
+
+gem "rspec-rails", "~> 7.1", :group => :test
